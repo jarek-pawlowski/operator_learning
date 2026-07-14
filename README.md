@@ -5,5 +5,5 @@
 - Phys-informed learning: `deepONet_phys-inf.py`
 
 #### Next steps:
-- apply to Schroedinger
-- FNO
+- apply it to stationary Schroedinger
+- implement FNO
